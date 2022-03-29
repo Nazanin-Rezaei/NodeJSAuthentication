@@ -1,0 +1,16 @@
+{
+  "name": "my-node-authentication-autorization",
+  "version": "1.0.0",
+  "description": "My first authentication and authorization node project. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Nazanin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
